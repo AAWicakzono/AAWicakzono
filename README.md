@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student | Frontend Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oradra19&label=Profile%20Views&color=6A5ACD&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AAWicakzono&label=Profile%20Views&color=6A5ACD&style=flat" />
 </p>
 
 ---
@@ -25,20 +25,20 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oradra19&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oradra19&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AAWicakzono&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAWicakzono&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oradra19&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAWicakzono&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Oradra19/Oradra19/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AAWicakzono/AAWicakzono/output/github-contribution-grid-snake.svg" />
 </p>
 
 
@@ -82,7 +82,7 @@ Wireframe → High-Fidelity → Prototype
   <a href="mailto:email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/Oradra19">
+  <a href="https://github.com/AAWicakzono">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
