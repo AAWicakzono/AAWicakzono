@@ -15,7 +15,7 @@ jobs:
           github_user_name: AAWicakzono
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7C3AED
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#Orange
 
 
       - name: Push Snake to branch
