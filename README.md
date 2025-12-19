@@ -37,11 +37,10 @@
 </p>
 
 ---
-
-## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oradra19&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Oradra19/Oradra19/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
