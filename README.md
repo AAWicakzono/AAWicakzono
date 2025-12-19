@@ -7,6 +7,22 @@
 
 ---
 
+## 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/AAWicakzono">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+
+---
+
 ## 👨‍💻 About Me
 🎓 Informatics student at **Universitas Muhammadiyah Surakarta (UMS)**  
 🎨 Passionate about **Frontend Development & UI/UX Design**  
@@ -71,20 +87,6 @@ Wireframe → High-Fidelity → Prototype
 - Performance-focused Frontend
 - Clean architecture for frontend projects
 
----
-
-## 📫 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/AAWicakzono">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
 
 ---
 
