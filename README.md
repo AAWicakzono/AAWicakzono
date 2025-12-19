@@ -53,11 +53,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AAWicakzono/AAWicakzono/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 📌 Featured Projects
 
@@ -89,7 +84,11 @@ Wireframe → High-Fidelity → Prototype
 
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AAWicakzono/AAWicakzono/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+---
 <p align="center">
   <i>"Simple design, strong impact."</i>
 </p>
