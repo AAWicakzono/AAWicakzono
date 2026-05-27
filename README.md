@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditiya Ari Wicaksono</h1>
-<h3 align="center">Informatics Student | Frontend Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Informatics Student | Frontend Developer | UI/UX Enthusiast | AI Prompting addict </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AAWicakzono&label=Profile%20Views&color=6A5ACD&style=flat" />
